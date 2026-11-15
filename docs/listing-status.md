@@ -16,9 +16,10 @@ Sources: Drive sheet "HWV eBay drafts double-check list 2026-11-12" (last change
 | Item 46, crystal glass box | 1 | yes | no copy; is it item 21's box? | none |
 | Shoes, 2026-11-12 (six pairs) | 6 | yes, **waiting for Ricky's OK** | copy starters only | none |
 | Garments, 2026-11-12 (three unidentified) | 3 | no | on hold until identified | none |
+| Clothes, 2026-11-15 Codex handoff (HWV-66 to 76, proposed) | 11 | yes, by Codex: 36 cut-outs, 65 upload JPEGs in Drive | **not started; no draft** | none |
 | Clothes, 2026-11-13 batch | 15 | not recorded; photos not in Drive or the repo | **drafts since 2026-11-14** | none |
 
-75 items in all. Up to 26 live on eBay (the sandals may have sold), 15 in drafts, 34 not started there. One Facebook draft.
+86 items in all. Up to 26 live on eBay (the sandals may have sold), 15 in drafts, 45 not started there. One Facebook draft.
 
 ## Clothes live on eBay since 2026-11-12
 
@@ -95,6 +96,24 @@ Each draft has photos, title, specifics, description with tape-read measurements
 
 Photo numbers that never reached the Mac's Photos library: IMG_7041 to 7113 (except 7064), 7030 to 7035, 2671, 2680 to 2682. The last photo processed was IMG_7171 (2026-11-13, 2:21 PM).
 
+## 2026-11-15 Codex handoff: 11 garments, nothing on eBay
+
+Drive `Holliewood eBay/eBay-2026-11-15`. Files, photo order, titles and duplicates were checked from a cloud session; tags only partly; no prices, measurements or conditions yet. Titles, photo order and the per-item "confirm" list: [`ebay-handoff-2026-11-15.md`](ebay-handoff-2026-11-15.md).
+
+| SKU (proposed) | Item | Blocked on |
+|---|---|---|
+| HWV-66 | Gusto Style In Italy brown knit, L | size and fibre split by eye, tape, condition, price |
+| HWV-67 | FP Movement Riviera Blue hooded top, XS | paper tag attached and unworn?, fibre, tape, price |
+| HWV-68 | ZESICA orange and pink checkerboard sweater, M | fibre, tape, condition, price |
+| HWV-69 | Earthbound Trading Co bell-sleeve cropped top, S | colour name, fibre, tape, condition, price |
+| HWV-70 | Body Central metallic gold cropped jacket, XL | fibre lines by eye, zipper, finish, tape, price |
+| HWV-71 | Verty red and gray print racerback tank, L | fibre, tape, condition, price |
+| HWV-72 | Zara cream open-knit short-sleeve top, M | fibre, tape, condition, price |
+| HWV-73 | Nike Trail Repel olive vest, M | department, hangtags attached and unworn?, tape, price |
+| HWV-74 | Diane Gilman silk print zip jacket, M | tape, condition, price |
+| HWV-75 | Zara sheer abstract stripe tie-front top, S | fibre, tape, condition, price |
+| HWV-76 | Croquet Club teal silk fringe shirt, M | department, fringe complete, tape, condition, price |
+
 ## Facebook Marketplace
 
-One draft: HWV-01 on Hollie's established account, ID `1761191728799823`, saved 2026-11-09 with price $0, no condition and the Loveland default location. The dress has been live on eBay at $34.99 since 2026-11-12. The other 74 items have no Facebook draft. The Page copy change (Southwest Florida, no showroom or rentals) is prepared in `assets/facebook-shop-kit/` and not applied.
+One draft: HWV-01 on Hollie's established account, ID `1761191728799823`, saved 2026-11-09 with price $0, no condition and the Loveland default location. The dress has been live on eBay at $34.99 since 2026-11-12. The other 85 items have no Facebook draft. The Page copy change (Southwest Florida, no showroom or rentals) is prepared in `assets/facebook-shop-kit/` and not applied.
