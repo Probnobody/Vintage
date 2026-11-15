@@ -2,7 +2,7 @@
 
 **Listing work starts here (2026-11-15):** [`docs/listing-pipeline.md`](docs/listing-pipeline.md) is the one process for phone photo to eBay listing and Facebook Marketplace draft, and it overrides older cutting notes below and in other docs. The short version:
 - **A photo is cut once.** Look it up in `assets/cut-ledger.csv` before cutting; add a row after. A re-cut needs Ricky to reject that photo.
-- **Cutters: Photoroom, Hugging Face BiRefNet or Codex**, one per batch, whichever can be reached. Claude does not edit pixels: no masks, patches, glare or colour fixes, straightening or new cut-out code.
+- **Codex does every cut-out (Ricky, standing rule, 2026-11-15, later the same day):** all background removal, cut-outs and studio photo edits go to Codex. Claude finds the listings, gathers the originals into one folder per listing (numbered in gallery order, eBay copies labelled when the original is missing), and uploads the finished files as given: 01 is Main, photos only, live gallery checked after saving. Claude does not edit pixels and does not run Photoroom or BiRefNet for eBay listings.
 - Close-ups (labels, flaws, tape) are never cut. Originals are never changed.
 - One number per item everywhere: `HWV-NN`. Claude saves drafts; Ricky says when a listing goes live. The Facebook draft stays a draft.
 - Before stopping: update `assets/cut-ledger.csv` and [`docs/listing-status.md`](docs/listing-status.md), commit, push.
