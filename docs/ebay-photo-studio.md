@@ -1,5 +1,7 @@
 # eBay photo studio: what we are doing and why
 
+> **Superseded for cutting rules (2026-11-15):** which tool cuts, and the rule that a photo is cut once, are in [`listing-pipeline.md`](listing-pipeline.md). This page is kept for its research, eBay photo rules and shoot advice.
+
 **Status (2026-11-07):** decisions from the two Sonnet sweeps in `research/ebay-photo-studio-2026-11-07/` (21 lanes, 30 claim checks; the verdicts are in that folder's README) plus tests on Ricky's four example photos in this cloud session. The script is built and tested on CPU here; the Windows install and the first GPU run happen when Ricky is at the PC (`docs/ebay-photo-studio-handoff.md`). Prices for gear are asking prices seen in search results that day, not opened pages, and are marked so. Every eBay rule quoted below comes from eBay pages fetched 2026-10-30 (`research/ebay-clothing-photos-2026-10-30/`).
 
 ## 1. The short answer

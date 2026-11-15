@@ -26,6 +26,15 @@ The desk wiki has a page on this project (`dev/Chief Of Staff/wiki/vintage.md`),
 - [codex-handoff-sample-room-and-star.md](codex-handoff-sample-room-and-star.md): the 2026-10-27 handoff for a way back to the sample room, plus the green-star report.
 - [idea-room-release.md](idea-room-release.md): release log for the idea room.
 
+## Listing pipeline (start here for photos, eBay and Facebook drafts)
+
+- [listing-pipeline.md](listing-pipeline.md): the one process and its rules, 2026-11-15. A photo is cut once; cutters are Photoroom, Hugging Face BiRefNet or Codex; what each place can reach; what is not in GitHub; what went wrong before. It overrides the cutting notes in the docs below.
+- [listing-status.md](listing-status.md): every item in one table: cut or not, eBay live, draft or not started, Facebook draft. Built 2026-11-15 from Drive, not yet checked against eBay.
+- `../assets/cut-ledger.csv`: one row per photo already cut or kept as shot, with the cutter. Check it before cutting.
+- [ebay-shoes-2026-11-12.md](ebay-shoes-2026-11-12.md): the six shoe pairs of 2026-11-12, cut with BiRefNet, waiting for Ricky's OK.
+- [instagram-video-2026-11.md](instagram-video-2026-11.md): a short reel per new listing from the real stills; research and decisions, nothing built.
+- [tool-stack.md](tool-stack.md): the 2026-11-07 tool-stack synthesis from sixteen lanes in `research/tools-2026-11-07/`, brought over from an unmerged branch on 2026-11-15.
+
 ## eBay photo studio (clothes on forms, white backgrounds)
 
 - [ebay-setup.md](ebay-setup.md): the approved two-business-day dispatch and 30-day return baseline, free-profile setup now and Store upgrade later, reusable footer, listing templates, customer replies and brand assets in `assets/ebay-shop-kit/`. Prepared November 8; account implementation remains pending browser access.

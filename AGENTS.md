@@ -2,6 +2,10 @@
 
 Read `CLAUDE.md` in this folder for the project. This file adds the one rule Codex has been missing.
 
+## Listing photos: cut once
+
+`docs/listing-pipeline.md` is the process for photos, eBay listings and Facebook Marketplace drafts. Before cutting a photo, look it up in `assets/cut-ledger.csv`; if it has a row, use that output and do not cut it again. After cutting, add a row (batch, item, source, output, action, cutter, status, note). A re-cut needs Ricky to reject that photo. Labels, flaws and tape shots are never cut. Keep `docs/listing-status.md` current.
+
 ## Push when a task lands
 
 Unpushed work is not done. When a task finishes, before a long wait, and before the session ends:
