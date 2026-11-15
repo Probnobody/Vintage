@@ -41,6 +41,7 @@ The desk wiki has a page on this project (`dev/Chief Of Staff/wiki/vintage.md`),
 - [ebay-drive-items.md](ebay-drive-items.md): the rule of one Drive folder per eBay item (photos plus `listing.txt`), the script that builds and checks it, and the 2026-11-08 check.
 - [ebay-weights-2026-11-12.md](ebay-weights-2026-11-12.md): paste-ready fill-ins for the 20 clothing drafts: measurement lines from the 11/12 tape photos, the smoke-free line (Ricky confirmed every piece is from a non-smoking home), and packed weight and box size estimated at the high end. Nothing has been weighed or entered into eBay.
 - `ebay-ready-to-list-2026-11-12.md`: one sheet per clothing draft: label size, fabric where the label says it, weight/box, paste-ready measurements (adds HWV-08 and HWV-11), smoke-free line, shoe label 10M.
+- `assets/ebay-2026-11-08/ready/`: one eBay posting sheet per item (44), built by `tools/ebay-ready.py` on 2026-11-09: template and policies to pick, category to search, title within 80 characters, description with the shop footer, item specifics and the blanks still to fill. `STATUS.md` there is the board.
 - `tools/cutout/cutout.py` is the script both describe; `tools/crawl-cloud.sh` is the cloud-session page fetcher the research lanes used.
 
 ## Hire Hollie (Fabulous From Online)
