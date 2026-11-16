@@ -10,7 +10,7 @@ Package: Drive `Holliewood eBay/eBay-2026-11-15` (folder `1DhKq2rSKJbQq0IM3FWVWc
 - **Titles:** all 11 are 56 to 65 characters, inside eBay's 80.
 - **Duplicates:** none of the 11 matches the 48 active listings in the Drive `HANDOFF.txt` of 2026-11-15 or any draft in [`listing-status.md`](listing-status.md). The other Zara and Free People pieces on record are different garments (jumpsuit, floral midi, striped shorts, blouse, jeans, bodysuit).
 - **Tags:** the Drive connector returned readable text for the Diane Gilman tag and the two Nike hangtags only. For the rest, the evidence is that the words appear in Drive's text index for that photo, which is weaker: it shows the word is on the tag, not the order or which number goes with which fibre. Nobody has looked at those tag photos by eye in this session (the connector cannot hand an image to a cloud session without flooding it). Nothing found contradicts a title.
-- **Not done:** prices. eBay answers 403 to this container, so no sold listings were read. No measurements exist; the loose tape in the photos is not a measurement.
+- **Not done:** prices. eBay answers 403 to this container, so no sold listings were read. Measurements were computed from the tape photos on 2026-11-16: [`ebay-measurements-2026-11-15.md`](ebay-measurements-2026-11-15.md).
 
 ## Numbers
 
@@ -35,7 +35,7 @@ Package: Drive `Holliewood eBay/eBay-2026-11-15` (folder `1DhKq2rSKJbQq0IM3FWVWc
 ## Every piece still needs
 
 - Condition and flaws, seen in daylight, and eBay's Condition field to match.
-- Flat measurements from the tape (pit to pit, length, sleeve; shoulder on the jackets).
+- The (?) measurements re-taped; the rest are in [`ebay-measurements-2026-11-15.md`](ebay-measurements-2026-11-15.md).
 - Packed weight and box.
 - A price from eBay sold listings, seen by Ricky before anything goes live (rule 8).
 - Department (the Nike vest and the Croquet Club shirt are not obvious).

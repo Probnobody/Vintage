@@ -31,6 +31,7 @@ The desk wiki has a page on this project (`dev/Chief Of Staff/wiki/vintage.md`),
 - [listing-pipeline.md](listing-pipeline.md): the one process and its rules, 2026-11-15. A photo is cut once; cutters are Photoroom, Hugging Face BiRefNet or Codex; what each place can reach; what is not in GitHub; what went wrong before. It overrides the cutting notes in the docs below.
 - [listing-status.md](listing-status.md): every item in one table: cut or not, eBay live, draft or not started, Facebook draft. Built 2026-11-15 from Drive, not yet checked against eBay.
 - [ebay-handoff-2026-11-15.md](ebay-handoff-2026-11-15.md): Codex's 11-garment package (HWV-66 to 76, proposed), checked 2026-11-15: files, photo order, titles, duplicates and what the tags support. Nothing on eBay.
+- [ebay-measurements-2026-11-15.md](ebay-measurements-2026-11-15.md): flat measurements for HWV-66 to 76 computed from the tape photos, 2026-11-16; which are safe to publish and which need the tape.
 - `../assets/cut-ledger.csv`: one row per photo already cut or kept as shot, with the cutter. Check it before cutting.
 - [ebay-shoes-2026-11-12.md](ebay-shoes-2026-11-12.md): the six shoe pairs of 2026-11-12, cut with BiRefNet, waiting for Ricky's OK.
 - [instagram-video-2026-11.md](instagram-video-2026-11.md): a short reel per new listing from the real stills; research and decisions, nothing built.

@@ -98,7 +98,7 @@ Photo numbers that never reached the Mac's Photos library: IMG_7041 to 7113 (exc
 
 ## 2026-11-15 Codex handoff: 11 garments, nothing on eBay
 
-Drive `Holliewood eBay/eBay-2026-11-15`. Files, photo order, titles and duplicates were checked from a cloud session; tags only partly; no prices, measurements or conditions yet. Titles, photo order and the per-item "confirm" list: [`ebay-handoff-2026-11-15.md`](ebay-handoff-2026-11-15.md).
+Drive `Holliewood eBay/eBay-2026-11-15`. Files, photo order, titles and duplicates were checked from a cloud session; tags only partly; no prices or conditions yet. Measurements computed from the tape photos on 2026-11-16, with the unsafe ones marked: [`ebay-measurements-2026-11-15.md`](ebay-measurements-2026-11-15.md). Titles, photo order and the per-item "confirm" list: [`ebay-handoff-2026-11-15.md`](ebay-handoff-2026-11-15.md).
 
 | SKU (proposed) | Item | Blocked on |
 |---|---|---|
