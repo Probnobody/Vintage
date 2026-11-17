@@ -1,0 +1,65 @@
+HWV-73. 08-Nike-Trail-Repel-olive-vest-M
+eBay posting sheet, built 2026-11-17. Nothing below is on eBay yet.
+
+== PICK IN EBAY ==
+Start from template:  HWV | Clothing | 2 day | 30 day
+Category (search):    activewear vests   (template defaults to Antiques: change it)
+Custom label (SKU):   HWV-73
+Format:               Buy It Now, quantity 1
+Shipping policy:      HWV | Parcel | Calculated | 2 business days
+Return policy:        HWV | Returns | 30 days | Buyer pays
+Payment policy:       HWV | eBay checkout | Immediate payment
+Condition field:      Pre-owned
+Package:              PACKED weight and box size: ____ lb ____ oz, ____ x ____ x ____ in
+Price:                ____   (no sold listings checked: Ricky sets it)
+Photos:               Drive, Holliewood eBay/eBay-2026-11-15/08-Nike-Trail-Repel-olive-vest-M/eBay-upload, in filename order, 01 is Main
+
+== TITLE (61/80) ==
+Nike Trail Repel Olive Off White Full Zip Running Vest Size M
+
+== DESCRIPTION (paste as is) ==
+Nike Trail full-zip running vest in olive and off-white with a zip chest pocket, side adjusters and rear pockets. Label size M, made in Vietnam. Hangtags read Nike Repel (water repellent) and made with at least 75% recycled fibers.
+
+Condition: pre-owned. No flaws noted in the photos. Please look through all photos.
+
+Measurements, taken flat:
+- Label size: M
+- Pit to pit: 20 in
+- Length: 23.5 in front, 24.5 in back
+- Shoulder, edge to edge: 16 in
+- Hem: 20.5 in
+
+Ships from Southwest Florida.
+
+HOLLIEWOOD & VINE
+Vintage with a past.
+
+Thoughtfully chosen vintage and preloved finds for your wardrobe and home.
+
+THE DETAILS MATTER
+Please read the item details and measurements and look through all photos for condition and signs of wear. Have a question? Send us a message through eBay; we're happy to help.
+
+SHIPPING & PICKUP
+Shipped orders go to the carrier within two business days after payment, Monday through Friday, excluding holidays. Tracking is added to your eBay order. Shipping costs and estimated delivery dates appear in the listing. For items offered with local pickup, collection is arranged through eBay Messages.
+
+RETURNS
+We accept returns within 30 days of delivery or collection. Buyers pay return shipping for a change of mind. If an item arrives damaged, faulty, incorrect, or not as described, we cover return shipping. Start a return from your eBay purchase history. For orders handled by eBay International Shipping, follow the return instructions in your order.
+
+FIND YOUR NEXT PIECE
+Follow Holliewood & Vine on eBay to see our latest finds.
+
+== ITEM SPECIFICS ==
+- Brand: Nike
+- Department: [Men or Women: confirm]
+- Size: M
+- Type: Vest
+- Activity: Running, Trail
+- Closure: Full Zip
+- Color: Green, Ivory
+- Features: Water Repellent, Pockets
+- Country of Manufacture: Vietnam
+
+== BEFORE YOU PUBLISH ==
+- Set the price and the package line.
+- Replace each [bracket] from the label, or leave that field empty.
+- The flaw wording comes from the photos. Change it only if the piece in hand says otherwise.

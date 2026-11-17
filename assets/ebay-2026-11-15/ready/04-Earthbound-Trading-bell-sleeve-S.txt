@@ -1,0 +1,64 @@
+HWV-69. 04-Earthbound-Trading-bell-sleeve-S
+eBay posting sheet, built 2026-11-17. Nothing below is on eBay yet.
+
+== PICK IN EBAY ==
+Start from template:  HWV | Clothing | 2 day | 30 day
+Category (search):    women's tops blouses   (template defaults to Antiques: change it)
+Custom label (SKU):   HWV-69
+Format:               Buy It Now, quantity 1
+Shipping policy:      HWV | Parcel | Calculated | 2 business days
+Return policy:        HWV | Returns | 30 days | Buyer pays
+Payment policy:       HWV | eBay checkout | Immediate payment
+Condition field:      Pre-owned
+Package:              PACKED weight and box size: ____ lb ____ oz, ____ x ____ x ____ in
+Price:                ____   (no sold listings checked: Ricky sets it)
+Photos:               Drive, Holliewood eBay/eBay-2026-11-15/04-Earthbound-Trading-bell-sleeve-S/eBay-upload, in filename order, 01 is Main
+
+== TITLE (65/80) ==
+Earthbound Trading Co Sage Green V Neck Bell Sleeve Cropped Top S
+
+== DESCRIPTION (paste as is) ==
+Earthbound Trading Co cropped V-neck top in a muted sage green with dark embroidered trim at the neckline and bell cuffs, and a tie at the neck. Label size S.
+
+Condition: pre-owned. Noted from the photos: two or three small dark specks on one upper sleeve. Please look through all photos.
+
+Measurements, taken flat:
+- Label size: S
+- Length, shoulder to hem: 18.5 in
+- Hem: 16 in
+- Bell cuff, band to edge: 7.5 in
+
+Ships from Southwest Florida.
+
+HOLLIEWOOD & VINE
+Vintage with a past.
+
+Thoughtfully chosen vintage and preloved finds for your wardrobe and home.
+
+THE DETAILS MATTER
+Please read the item details and measurements and look through all photos for condition and signs of wear. Have a question? Send us a message through eBay; we're happy to help.
+
+SHIPPING & PICKUP
+Shipped orders go to the carrier within two business days after payment, Monday through Friday, excluding holidays. Tracking is added to your eBay order. Shipping costs and estimated delivery dates appear in the listing. For items offered with local pickup, collection is arranged through eBay Messages.
+
+RETURNS
+We accept returns within 30 days of delivery or collection. Buyers pay return shipping for a change of mind. If an item arrives damaged, faulty, incorrect, or not as described, we cover return shipping. Start a return from your eBay purchase history. For orders handled by eBay International Shipping, follow the return instructions in your order.
+
+FIND YOUR NEXT PIECE
+Follow Holliewood & Vine on eBay to see our latest finds.
+
+== ITEM SPECIFICS ==
+- Brand: Earthbound Trading Co
+- Department: Women
+- Size: S
+- Type: Blouse
+- Style: Boho, Cropped
+- Sleeve Length: Long Sleeve, bell
+- Neckline: V-Neck
+- Color: Green
+- Material: [from the care label]
+
+== BEFORE YOU PUBLISH ==
+- Set the price and the package line.
+- Replace each [bracket] from the label, or leave that field empty.
+- The flaw wording comes from the photos. Change it only if the piece in hand says otherwise.
