@@ -114,7 +114,7 @@ Drive `Holliewood eBay/eBay-2026-11-15`. Files, photo order, titles and duplicat
 | HWV-75 | Zara sheer abstract stripe tie-front top, S | fibre, tape, condition, price |
 | HWV-76 | Croquet Club teal silk fringe shirt, M | department, fringe complete, tape, condition, price |
 
-Posting sheets with the safe measurements and the flaw notes left in (Ricky, 2026-11-16: "list and leave possible flaws") are in `assets/ebay-2026-11-15/ready/` and as `listing.txt` in each Drive item folder since 2026-11-17. Still not on eBay: no browser from the cloud session, and each sheet has an empty price and package line.
+Posting sheets with the safe measurements and the flaw notes left in (Ricky, 2026-11-16: "list and leave possible flaws") are in `assets/ebay-2026-11-15/ready/` and as `listing.txt` in each Drive item folder since 2026-11-17. Still not on eBay: no browser from the cloud session, and each sheet has an empty price and package line. **Next step:** [`ebay-list-handoff-2026-11-17.md`](ebay-list-handoff-2026-11-17.md), Ricky's word to list all 11.
 
 ## Facebook Marketplace
 

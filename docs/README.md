@@ -32,6 +32,7 @@ The desk wiki has a page on this project (`dev/Chief Of Staff/wiki/vintage.md`),
 - [listing-status.md](listing-status.md): every item in one table: cut or not, eBay live, draft or not started, Facebook draft. Built 2026-11-15 from Drive, not yet checked against eBay.
 - [ebay-handoff-2026-11-15.md](ebay-handoff-2026-11-15.md): Codex's 11-garment package (HWV-66 to 76, proposed), checked 2026-11-15: files, photo order, titles, duplicates and what the tags support. Nothing on eBay.
 - [ebay-measurements-2026-11-15.md](ebay-measurements-2026-11-15.md): flat measurements for HWV-66 to 76 computed from the tape photos, 2026-11-16; which are safe to publish and which need the tape.
+- [ebay-list-handoff-2026-11-17.md](ebay-list-handoff-2026-11-17.md): handoff for a Claude session with signed-in Chrome to put HWV-66 to 76 live: steps, how to settle price, weight and bracketed fields, and the report Ricky gets.
 - `../assets/cut-ledger.csv`: one row per photo already cut or kept as shot, with the cutter. Check it before cutting.
 - [ebay-shoes-2026-11-12.md](ebay-shoes-2026-11-12.md): the six shoe pairs of 2026-11-12, cut with BiRefNet, waiting for Ricky's OK.
 - [instagram-video-2026-11.md](instagram-video-2026-11.md): a short reel per new listing from the real stills; research and decisions, nothing built.
