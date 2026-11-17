@@ -114,6 +114,8 @@ Drive `Holliewood eBay/eBay-2026-11-15`. Files, photo order, titles and duplicat
 | HWV-75 | Zara sheer abstract stripe tie-front top, S | fibre, tape, condition, price |
 | HWV-76 | Croquet Club teal silk fringe shirt, M | department, fringe complete, tape, condition, price |
 
+Posting sheets with the safe measurements and the flaw notes left in (Ricky, 2026-11-16: "list and leave possible flaws") are in `assets/ebay-2026-11-15/ready/` and as `listing.txt` in each Drive item folder since 2026-11-17. Still not on eBay: no browser from the cloud session, and each sheet has an empty price and package line.
+
 ## Facebook Marketplace
 
 One draft: HWV-01 on Hollie's established account, ID `1761191728799823`, saved 2026-11-09 with price $0, no condition and the Loveland default location. The dress has been live on eBay at $34.99 since 2026-11-12. The other 85 items have no Facebook draft. The Page copy change (Southwest Florida, no showroom or rentals) is prepared in `assets/facebook-shop-kit/` and not applied.
