@@ -1,6 +1,6 @@
 # Vintage (Holliewood and Vine)
 
-Read `CLAUDE.md` in this folder for the project. This file adds the one rule Codex has been missing.
+Read `CLAUDE.md` in this folder for the project. For item photos, measurements, and posting, follow [Listing photo and posting rules](docs/listing-photo-rules.md).
 
 ## Push when a task lands
 

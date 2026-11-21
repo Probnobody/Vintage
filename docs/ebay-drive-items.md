@@ -4,11 +4,13 @@
 
 ```
 G:\My Drive\Holliewood eBay\Items\<NN slug>\
-    <slug>-front.jpg, -back.jpg, -tag.jpg, -detail.jpg ...   Photoroom output only (white background)
+    <slug>-front.jpg, -back.jpg, -tag.jpg, -detail.jpg ...   listing photos (see photo rules below)
     listing.txt                                               title, description, item specifics, "before you publish" notes
 ```
 
-An item is **set up** when the folder exists with a front photo and `listing.txt`. Numbers continue the listing
+Follow the [listing photo and posting rules](listing-photo-rules.md) before publishing. Keep Ricky’s post-listing review notes in the item folder, separate from the listing copy.
+
+For the folder-building script, an item is **set up** when the folder exists with a front photo and `listing.txt`. Numbers continue the listing
 numbers (1 to 46 are the 2026-11-08 batch); the slug is the photo file-name stem. On the phone, Files > Google Drive >
 Holliewood eBay > Items > one folder = one eBay listing: pick the photos, paste the text.
 

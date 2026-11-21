@@ -145,7 +145,7 @@ For each unique item:
 
 1. Use its Drive folder under `Holliewood eBay/Items`; photos and `listing.txt` stay together.
 2. Inspect the item and fill real measurements, condition, inclusions, label information and flaws. Replace every bracket and blank. Record SKU and storage location.
-3. Add the actual item's photos. Keep accurate labels, close-ups and flaws. Reserve branding for the Store and description.
+3. Add at least three distinct photos of the actual item. Follow the [listing photo and posting rules](listing-photo-rules.md) for cutouts, photo quality, measurements, and Ricky’s post-listing review notes. Reserve branding for the Store and description.
 4. Fill native category and item-specific fields. The description does not substitute for size, brand or condition fields.
 5. Choose matching policies and enter packed specifications. Quantity is one for a unique piece.
 6. Paste the shared footer below the completed item description. On a phone use `listing-footer.txt`, not HTML source.
